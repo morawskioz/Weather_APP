@@ -8,7 +8,7 @@
 
 ## General info
 
-The App created during "Modern React with Redux" Udemy course by Stephen Grider. It is a App where you can search
+The App created during "Modern React with Redux" Udemy course by Stephen Grider. It is an App where you can search
 for the weather in different cities across the US. Just type like "New York" and see for yourself.
 
 
