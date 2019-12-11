@@ -9,7 +9,7 @@
 ## General info
 
 The App created during "Modern React with Redux" Udemy course by Stephen Grider. It is an App where you can search
-for the weather in different cities across the US. Just type like "New York" and see for yourself.
+for the weather in different cities across the Poland. Just type like "Warszawa", hit enter and see for yourself.
 
 
 ## Technologies
